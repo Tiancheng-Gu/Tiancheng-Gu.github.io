@@ -18,7 +18,7 @@ Born from the need for a balanced academic web presence, **AcaNova-X** is neithe
 ### 🎥 Preview
 
 <div align="center">
-  <a href="https://github.com/yihangtao/AcaNova-X/raw/main/docs/example.mp4">
+  <a href="https://github.com/yihangtao/AcaNova-X/blob/main/docs/example.mp4">
     <img src="docs/part1.png" width="100%" alt="Watch the Preview Video" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
   </a>
   <br>
