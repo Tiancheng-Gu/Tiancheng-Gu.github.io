@@ -1,14 +1,57 @@
 [
   {
-    "date": "2025-01-01",
-    "content": "Welcome to my new academic homepage! This template is available on GitHub.",
+    "date": "2025.10",
+    "content": "UniME-V2 has been accepted by AAAI 2026 as Oral Presentation!",
     "links": [
-        { "text": "GitHub", "url": "https://github.com/yihangtao/AcaNova-X" }
+      { "text": "UniME-V2", "url": "https://garygutc.github.io/UniME-v2" }
     ]
   },
   {
-     "date": "2024-12-15",
-     "content": "One paper titled 'A Novel Approach to AI' was accepted to CVPR 2025!",
-     "links": []
+    "date": "2025.07",
+    "content": "UniME and RealSyn have been accepted by ACM MM 2025! All members oral!",
+    "links": [
+      { "text": "UniME", "url": "https://garygutc.github.io/UniME" },
+      { "text": "RealSyn", "url": "https://garygutc.github.io/RealSyn" }
+    ]
+  },
+  {
+    "date": "2024.10",
+    "content": "CLIP-CID has been accepted by AAAI 2025!",
+    "links": [
+      { "text": "CLIP-CID", "url": "https://arxiv.org/abs/2408.09441" }
+    ]
+  },
+  {
+    "date": "2024.10",
+    "content": "ORID has been accepted by WACV 2025 as Oral Presentation!",
+    "links": [
+      { "text": "ORID", "url": "https://arxiv.org/abs/2411.13025" }
+    ]
+  },
+  {
+    "date": "2024.09",
+    "content": "RWKV-CLIP has been accepted by EMNLP 2024 Main!",
+    "links": [
+      { "text": "RWKV-CLIP", "url": "https://github.com/deepglint/RWKV-CLIP" }
+    ]
+  },
+  {
+    "date": "2024.05",
+    "content": "LaPA has been accepted by CVPR 2024 Workshop!",
+    "links": [
+      { "text": "LaPA", "url": "https://arxiv.org/abs/2404.13039" }
+    ]
+  },
+  {
+    "date": "2023.10",
+    "content": "COMG has been accepted by WACV 2024!",
+    "links": [
+      { "text": "COMG", "url": "https://github.com/GaryGuTC/COMG_model" }
+    ]
+  },
+  {
+    "date": "2023.03",
+    "content": "Started my Ph.D. journey at The University of Sydney!",
+    "links": []
   }
 ]

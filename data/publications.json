@@ -1,26 +1,115 @@
 [
   {
-    "title": "AcaNova-X: A Modern and Elegant Academic Website Template",
-    "authors": "<strong>Your Name</strong>, Collaborator A, Collaborator B",
-    "venue": "CVPR 2025",
-    "year": "2025",
+    "title": "UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning",
+    "authors": "<strong>Tiancheng Gu*</strong>, Kaicheng Yang*, Kaichen Zhang, Xiang An, Ziyong Feng, Yueyi Zhang#, Weidong Cai, Jiankang Deng#, Lidong Bing",
+    "venue": "AAAI 2026",
+    "year": "2026",
     "highlight": "Oral",
-    "thumbnail": "assets/publications/placeholder/paper-thumb.png",
+    "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "#" },
-      { "text": "Code", "link": "#" },
-      { "text": "Project Page", "link": "#" }
+      { "text": "Paper", "link": "https://arxiv.org/pdf/2510.13515" },
+      { "text": "Project Page", "link": "https://garygutc.github.io/UniME-v2" }
     ]
   },
   {
-    "title": "Another Great Research Work on Machine Learning",
-    "authors": "Collaborator A, <strong>Your Name</strong>, Collaborator B",
-    "venue": "NeurIPS 2024",
-    "year": "2024",
-    "highlight": "Spotlight",
+    "title": "DanQing-100M: A Large-scale Chinese Vision-Language Pre-training Dataset",
+    "authors": "Hengyu Shen*, <strong>Tiancheng Gu*</strong>, Bin Qin, Shuo Tan, Zelong Sun Jun Wang, Nan Wu, Xiang An, Ziyong Feng, Kaicheng Yang#",
+    "venue": "Technique Report",
+    "year": "2026",
+    "highlight": "",
     "thumbnail": "",
     "tags": [
-      { "text": "Paper", "link": "#" }
+      { "text": "Project Page", "link": "https://deepglint.github.io/DanQing" }
+    ]
+  },
+  {
+    "title": "HieraDoc: A Hierarchical Benchmark for Document Retrieval-Augmented Generation",
+    "authors": "Jun Wang*, <strong>Tiancheng Gu*</strong>, Shuo Tan, Yifan Zhang, Hengyu Shen, Xiaoxing Hu, Weidong Cai, Ziyong Feng, Xiang An, Kaicheng Yang#",
+    "venue": "Under Review",
+    "year": "2026",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": []
+  },
+  {
+    "title": "Breaking the Modality Barrier: Universal Embedding Learning with Multimodal LLMs",
+    "authors": "<strong>Tiancheng Gu*</strong>, Kaicheng Yang*, Yanzhao Zhang, Yingda chen, Dingkun Long, Weidong Cai, JianKang Deng#",
+    "venue": "ACM MM 2025",
+    "year": "2025",
+    "highlight": "Oral",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/pdf/2504.17432" },
+      { "text": "Project Page", "link": "https://garygutc.github.io/UniME" }
+    ]
+  },
+  {
+    "title": "RealSyn: An Effective and Scalable Multimodal Interleaved Document Transformation Paradigm",
+    "authors": "<strong>Tiancheng Gu*</strong>, Kaicheng Yang*, Chaoyi Zhang, Yin Xie, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai#, Jiankang Deng#",
+    "venue": "ACM MM 2025",
+    "year": "2025",
+    "highlight": "Oral",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/pdf/2502.12513" },
+      { "text": "Project Page", "link": "https://garygutc.github.io/RealSyn" }
+    ]
+  },
+  {
+    "title": "CLIP-CID: Efficient CLIP Distillation via Cluster-Instance Discrimination",
+    "authors": "Kaicheng Yang*, <strong>Tiancheng Gu*</strong>, Xiang An, Haiqiang Jiang, Xiangzi Dai, Ziyong Feng, Weidong Cai#, Jiankang Deng#",
+    "venue": "AAAI 2025",
+    "year": "2025",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/abs/2408.09441" }
+    ]
+  },
+  {
+    "title": "ORID: Organ-Regional Information Driven Framework for Radiology Report Generation",
+    "authors": "<strong>Tiancheng Gu*</strong>, Kaicheng Yang*, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai#",
+    "venue": "WACV 2025",
+    "year": "2025",
+    "highlight": "Oral",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/pdf/2411.13025" }
+    ]
+  },
+  {
+    "title": "RWKV-CLIP: A Robust Vision-Language Representation Learner",
+    "authors": "<strong>Tiancheng Gu*</strong>, Kaicheng Yang*, Xiang An, Ziyong Feng, Dongnan Liu, Weidong Cai#, Jiankang Deng#",
+    "venue": "EMNLP 2024",
+    "year": "2024",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/pdf/2406.06973" },
+      { "text": "Code", "link": "https://github.com/deepglint/RWKV-CLIP" }
+    ]
+  },
+  {
+    "title": "LaPA: Latent Prompt Assist Model For Medical Visual Question Answering",
+    "authors": "<strong>Tiancheng Gu</strong>, Kaicheng Yang, Dongnan Liu, Weidong Cai#",
+    "venue": "CVPR Workshop 2024",
+    "year": "2024",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/pdf/2404.13039" }
+    ]
+  },
+  {
+    "title": "Complex Organ Mask Guided Radiology Report Generation",
+    "authors": "<strong>Tiancheng Gu</strong>, Dongnan Liu, Zhiyuan Li, Weidong Cai#",
+    "venue": "WACV 2024",
+    "year": "2024",
+    "highlight": "",
+    "thumbnail": "",
+    "tags": [
+      { "text": "Paper", "link": "https://arxiv.org/pdf/2311.02329" },
+      { "text": "Code", "link": "https://github.com/GaryGuTC/COMG_model" }
     ]
   }
 ]
